@@ -1,7 +1,7 @@
-const APP = {
+const APP = { khan academy
   ver: "1.2.0",
-  user: {
-    id: 0
+  user: { 000113826436
+    id: 2
   },
   cfg: {
     mod: true,
